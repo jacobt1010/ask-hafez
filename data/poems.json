@@ -1,0 +1,427 @@
+[
+  {
+    "id": "hafez-001",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "به بویِ نافه‌ای کآخِر صبا زان طُرّه بُگشاید\nز تابِ جَعدِ مشکینش چه خون افتاد در دل‌ها",
+    "transliteration": "Be buy-e nāfe-i k-ākhir sabā z-ān torra bogshāyad\nZ-e tāb-e ja'd-e moshkinash che khun oftād dar del-hā",
+    "en_translation": "In hope that the breeze will at last loosen that tress,\nfrom the torment of its dark curls, what blood has fallen into hearts.",
+    "en_meaning_summary": "The fragrance of the beloved's hair, carried by the wind, is enough to wound every heart that catches it. Longing lives in the smallest sensory trace of the one who is absent.",
+    "source_note": "Hafez, Divan, Ghazal 1. Second couplet of the most famous opening in Persian poetry.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh1",
+    "commentary": {
+      "context": "This couplet comes from the opening ghazal of Hafez's Divan — the poem he placed first among all his work. The image of the morning breeze carrying the scent of the beloved's hair is one of Persian poetry's most enduring conventions, but Hafez charges it with unusual physical intensity: it is not beauty that wounds here, but fragrance alone, arriving before the beloved does.",
+      "why_it_speaks": "Something not yet present — only its trace in the air — is enough to undo us. Hafez names that particular quality of longing: not the absence of what we love, but the nearness of its scent.",
+      "literary_notes": [
+        "Nāfe (musk pod) is the source of the most prized perfume in classical Persian poetry — the beloved's hair is compared to it as the highest compliment.",
+        "Sabā (the east wind, morning breeze) is a messenger figure in Persian lyric — it carries news and scent between lovers.",
+        "The phrase 'what blood has fallen into hearts' uses blood (khun) in the Persian poetic sense of passionate suffering — hearts bleed with longing."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "به بویِ نافه‌ای کآخِر صبا زان طُرّه بُگشاید. ز تابِ جَعدِ مشکینش چه خون افتاد در دل‌ها.",
+      "cache_key": "hafez-001"
+    }
+  },
+  {
+    "id": "hafez-002",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "گفتم ای سلطانِ خوبان رحم کن بر این غریب\nگفت در دنبالِ دل، رَه گُم کُنَد مسکین غریب",
+    "transliteration": "Goftam ay soltān-e khubān rahm kon bar in gharib\nGoft dar donbāl-e del, rah gom konad meskin gharib",
+    "en_translation": "I said: O sultan of beauties, have mercy on this stranger.\nShe said: the poor stranger loses the way chasing after the heart.",
+    "en_meaning_summary": "The lover pleads for mercy and receives instead a sharp truth: it is the heart itself, not the road, that leads the wanderer astray. To follow your heart is to court being lost.",
+    "source_note": "Hafez, Divan, Ghazal 14. The opening couplet of a ghazal on the paradox of love's guidance.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh14",
+    "commentary": {
+      "context": "Hafez structures many of his ghazals as dialogues between the lover and the beloved, with the beloved delivering unexpected, paradoxical wisdom. Here the beloved is called 'sultan of beauties' — sovereign over all that is fair — and her reply is not comfort but a wry observation about the nature of pursuit itself.",
+      "why_it_speaks": "We ask for mercy from what we love most, and what we love most tells us: you are already lost, and your heart is what lost you. There is no cruelty in this — only the truth of how longing works.",
+      "literary_notes": [
+        "Gharib means both 'stranger' and 'poor/wretched' in Persian — the word carries both social displacement and emotional destitution simultaneously.",
+        "The structure of question and answer (goftam / goft) is a beloved Hafez device — the beloved's reply always reframes or overturns the lover's expectation.",
+        "Meskin (wretched/poor) reinforces gharib — the doubled vulnerability of someone who is both lost and pitiable."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "گفتم ای سلطانِ خوبان رحم کن بر این غریب. گفت در دنبالِ دل، رَه گُم کُنَد مسکین غریب.",
+      "cache_key": "hafez-002"
+    }
+  },
+  {
+    "id": "hafez-003",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "بیا که قصرِ اَمَل سخت سست‌بنیادست\nبیار باده که بنیادِ عمر بر بادست",
+    "transliteration": "Biyā ke qasr-e amal sakht sost-bonyād ast\nBiyār bāde ke bonyād-e omr bar bād ast",
+    "en_translation": "Come, for the castle of hope is built on very weak foundations.\nBring wine, for the foundation of life rests on wind.",
+    "en_meaning_summary": "Our grandest ambitions are structurally unsound, and life itself is no more stable than a breath of air. The invitation is not to despair but to be present — to drink from what is real before the wind takes it.",
+    "source_note": "Hafez, Divan, Ghazal 37. The opening couplet — one of Hafez's most quoted meditations on impermanence.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh37",
+    "commentary": {
+      "context": "Hafez composed during a period of political instability in Shiraz, where empires rose and fell within a generation. The 'castle of hope' is both literal and existential: every plan we build for the future. Hafez does not mourn this; he uses it as an argument for presence.",
+      "why_it_speaks": "The things we build toward are less solid than we imagine. Hafez says this not to discourage but to redirect — toward the wine in hand, the moment that is actually here.",
+      "literary_notes": [
+        "The word bonyād (foundation) appears twice in close succession — a deliberate echo that enacts the poem's own instability through repetition.",
+        "Bāde (wine) in Hafez functions as a symbol of presence, joy, and spiritual intoxication — not mere drink.",
+        "Bād means both 'wind' and forms 'on the wind' (bar bād) — Hafez uses this to suggest life is both fleeting and literally breathed."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "بیا که قصرِ اَمَل سخت سست‌بنیادست. بیار باده که بنیادِ عمر بر بادست.",
+      "cache_key": "hafez-003"
+    }
+  },
+  {
+    "id": "hafez-004",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "سال‌ها دل طلبِ جامِ جم از ما می‌کرد\nوآنچه خود داشت ز بیگانه تمنّا می‌کرد",
+    "transliteration": "Sāl-hā del talab-e jām-e Jam az mā mi-kard\nVānche khod dāsht ze bigāne tamnā mi-kard",
+    "en_translation": "For years the heart was asking us for the Cup of Jamshid,\nand what it already possessed, it was seeking from strangers.",
+    "en_meaning_summary": "We spend years searching elsewhere for what we have always carried within us. The wisdom, the clarity, the thing we most desire — it was never missing, only unrecognized.",
+    "source_note": "Hafez, Divan, Ghazal 143. The opening couplet of one of Hafez's most celebrated ghazals on self-knowledge.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh143",
+    "commentary": {
+      "context": "The Jām-e Jam (Cup of Jamshid) is a mythical vessel from Persian legend — a goblet in which the ancient king Jamshid could see the entire world reflected. It became a symbol for total knowledge and divine vision. Hafez's point is devastating in its simplicity: the heart has been the cup all along.",
+      "why_it_speaks": "The search itself was the detour. What you have been looking for in teachers, in distant places, in other people — your own heart has held it. The years of seeking were not wasted, but they were misdirected.",
+      "literary_notes": [
+        "Jām-e Jam is one of Persian poetry's richest symbols — the world-revealing cup of the legendary king Jamshid, associated with omniscience and divine sight.",
+        "The phrase 'from strangers' (ze bigāne) is pointed — we outsource our deepest knowing to those who are exterior to us.",
+        "The grammatical subject is 'the heart' (del) — not 'I' — which creates a slight distance, as if Hafez is observing the heart's behavior from outside."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "سال‌ها دل طلبِ جامِ جم از ما می‌کرد. وآنچه خود داشت ز بیگانه تمنّا می‌کرد.",
+      "cache_key": "hafez-004"
+    }
+  },
+  {
+    "id": "hafez-005",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "ای دل غمدیده، حالت بِه شود، دل بَد مکن\nوین سرِ شوریده باز آید به سامان غم مخور",
+    "transliteration": "Ay del gham-dide, hālat beh shavad, del bad makon\nVin sar-e showride bāz āyad be sāmān gham makhor",
+    "en_translation": "O grief-stricken heart, your state will improve — do not despair.\nThis troubled head will find its way again — do not grieve.",
+    "en_meaning_summary": "A direct address to the suffering heart: things will change. The turbulence is not permanent. There is no argument here, no explanation — only the plain, warm insistence that it will be better.",
+    "source_note": "Hafez, Divan, Ghazal 255. The opening couplet of a consolation ghazal.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh255",
+    "commentary": {
+      "context": "Hafez rarely speaks in the register of simple consolation — most of his ghazals are complex and layered. This one is unusual in its directness. He addresses the heart as if it were a person in the room, someone he can see suffering, and he simply tells it: this will pass.",
+      "why_it_speaks": "Sometimes what is needed is not wisdom or metaphor but a voice saying plainly: your state will improve. Hafez, for once, says exactly that.",
+      "literary_notes": [
+        "Gham-dide (grief-witnessed) is a compound adjective — the heart has not just felt grief but seen it, as if grief were a landscape it has traveled through.",
+        "Sar-e showride (troubled/disheveled head) evokes someone whose hair is literally disordered by distress — a physical image of internal chaos.",
+        "The doubled negative imperative (del bad makon / gham makhor) creates a gentle, insistent rhythm — the voice of a friend who keeps saying it until you hear it."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "ای دل غمدیده، حالت بِه شود، دل بَد مکن. وین سرِ شوریده باز آید به سامان غم مخور.",
+      "cache_key": "hafez-005"
+    }
+  },
+  {
+    "id": "hafez-006",
+    "poet": "Hafez",
+    "work": "Divan-e Hafez",
+    "fa": "نرگس کرشمه می‌برد از حد برون خرام\nای من فدای شیوه چشم سیاه تو",
+    "transliteration": "Narges kareshme mi-barad az hadd borun kharām\nAy man fedā-ye shive-ye cheshm-e siāh-e to",
+    "en_translation": "The narcissus steals glances beyond all measure as it sways —\nOh, I am a sacrifice to the ways of your dark eyes.",
+    "en_meaning_summary": "The beloved's dark eyes surpass even the narcissus — the flower of languid, self-admiring beauty — in their allure. The speaker offers themselves completely, undone by a single glance.",
+    "source_note": "Hafez, Divan, Ghazal 409. A couplet of pure lyric devotion to the beauty of the beloved's gaze.",
+    "source_url": "https://ganjoor.net/hafez/ghazal/sh409",
+    "commentary": {
+      "context": "In Persian poetry, the narcissus is the flower most associated with the beloved's eyes — both share a quality of languid, sideways beauty. Hafez sets up a comparison only to collapse it: the narcissus steals glances, yes, but the beloved's dark eyes exceed even this.",
+      "why_it_speaks": "To be undone by how someone looks at you — not what they say, not what they do, just the way their eyes move — is a feeling Hafez captures with precise economy.",
+      "literary_notes": [
+        "Narges (narcissus) is the canonical Persian poetic image for the beloved's eyes — languid, slightly intoxicated, half-closed.",
+        "Kareshme (coquetry / sidelong glance) is the specific quality of movement associated with narcissus eyes — a lazy, irresistible charm.",
+        "Fedā (sacrifice/offering) — 'I am a sacrifice to' is a Persian expression of devotion equivalent to 'I would give everything for.'"
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "نرگس کرشمه می‌برد از حد برون خرام. ای من فدای شیوه چشم سیاه تو.",
+      "cache_key": "hafez-006"
+    }
+  },
+  {
+    "id": "rumi-001",
+    "poet": "Rumi",
+    "work": "Masnavi-ye Manavi, Book I",
+    "fa": "بشنو این نی چون شکایت می‌کند\nاز جدایی‌ها حکایت می‌کند",
+    "transliteration": "Beshno in ney chon shekāyat mi-konad\nAz jodāyi-hā hekāyat mi-konad",
+    "en_translation": "Listen to this reed, how it tells of complaints,\nit tells tales of separations.",
+    "en_meaning_summary": "The reed flute cries because it was cut from the reed bed. Its music is not performance — it is the sound of separation itself. To listen is to recognize your own longing in its cry.",
+    "source_note": "Rumi, Masnavi, Book I, opening verses. The most famous opening in Persian literature.",
+    "source_url": "https://ganjoor.net/moulavi/masnavi/daftar1/sh1",
+    "commentary": {
+      "context": "Rumi opens the entire Masnavi — his life's masterwork of sixty thousand verses — with the image of the ney (reed flute). The reed was cut from the reed bed, and its music is the sound of that original separation. The Masnavi is, in one sense, sixty thousand verses of elaboration on these two opening lines.",
+      "why_it_speaks": "Every sound of longing — music, poetry, the voice that keeps talking about what it has lost — is the reed crying from its reed bed. To hear it is to recognize your own separation in its complaint.",
+      "literary_notes": [
+        "Ney (reed flute) is Rumi's central symbol throughout the Masnavi — it represents the human soul separated from its divine origin.",
+        "Shekāyat (complaint/lament) is the technical word for the reed's cry — it is not random sound but articulate grief.",
+        "The verb beshno (listen!) is an imperative — Rumi opens with a command, pulling the reader into active attention before anything else is said."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "بشنو این نی چون شکایت می‌کند. از جدایی‌ها حکایت می‌کند.",
+      "cache_key": "rumi-001"
+    }
+  },
+  {
+    "id": "rumi-002",
+    "poet": "Rumi",
+    "work": "Masnavi-ye Manavi, Book III",
+    "fa": "این چراغ شمس کو روشن بود\nنه از فتیل و پنبه و روغن بود",
+    "transliteration": "In cherāgh-e shams ko roshan bud\nNe az fatil o panbe o rowghan bud",
+    "en_translation": "This lamp of the sun that shone so bright —\nit was not from wick, or cotton, or oil.",
+    "en_meaning_summary": "True illumination has no material source. The light that genuinely transforms us comes from somewhere beyond what can be bought, prepared, or manufactured.",
+    "source_note": "Rumi, Masnavi, Book III. A couplet on the nature of spiritual light versus material light.",
+    "source_url": "https://ganjoor.net/moulavi/masnavi/daftar3/sh1",
+    "commentary": {
+      "context": "Rumi frequently distinguishes between the light we can produce — fire, lamps, candles — and the light that has a different origin entirely. Here he uses the sun as his example: the sun is luminous, but not because of any fuel we can name. This is his way of pointing toward a quality of understanding or love that does not depend on effort or preparation.",
+      "why_it_speaks": "Some things that light us up cannot be explained by their ingredients. The source is elsewhere — and pointing to that elsewhere is what Rumi does.",
+      "literary_notes": [
+        "Shams (sun) also refers to Shams-e Tabrizi, Rumi's spiritual companion whose arrival transformed him — the couplet works on both a cosmic and personal level.",
+        "The list of lamp components (wick, cotton, oil) is deliberately mundane — Rumi catalogs the ordinary to point beyond it.",
+        "The negative construction ('was not from...') is typical of Rumi's apophatic style — defining what something is by what it is not."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "این چراغ شمس کو روشن بود. نه از فتیل و پنبه و روغن بود.",
+      "cache_key": "rumi-002"
+    }
+  },
+  {
+    "id": "rumi-003",
+    "poet": "Rumi",
+    "work": "Divan-e Shams",
+    "fa": "چندان بنالم ناله‌ها چندان برآرم رنگ‌ها\nتا برکنم از آینه هر منکری من زنگ‌ها",
+    "transliteration": "Chandān banālam nāle-hā chandān barāram rang-hā\nTā barkonam az āyne har monkari man zang-hā",
+    "en_translation": "So many laments I will cry, so many colors I will bring forth,\nuntil I scrub from the mirror every rust of denial.",
+    "en_meaning_summary": "The speaker will persist in longing and expression — crying out, bringing color into the world — until every layer of resistance and denial has been polished away. The mirror of the heart must be cleared before it can reflect truly.",
+    "source_note": "Rumi, Divan-e Shams, Ghazal 22. A verse of insistent devotion and inner purification.",
+    "source_url": "https://ganjoor.net/moulavi/shams/ghazalsh/sh22",
+    "commentary": {
+      "context": "The mirror (āyne) is a central Sufi image — the heart as a reflective surface that must be polished to show truth. Rust (zang) represents the accumulation of denial, ego, and resistance that clouds perception. Rumi's method here is not stillness but insistent creative outpouring: laments and colors, sound and sight, until the obstruction is gone.",
+      "why_it_speaks": "The path to clarity is not always quiet. Sometimes it is crying and making things and refusing to stop until the obstruction lifts. Rumi gives permission for that kind of persistence.",
+      "literary_notes": [
+        "Zang (rust) on a mirror is the classical Sufi image for what obscures the heart's capacity to reflect divine reality — spiritual corrosion.",
+        "Monkar (one who denies/rejects) — the rust here is personified as a denier, giving the act of polishing a quality of confrontation.",
+        "The repetition of chandān (so many / so much) gives the couplet a breathless, accumulating energy — the speaker is not calm, they are insistent."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "چندان بنالم ناله‌ها چندان برآرم رنگ‌ها. تا برکنم از آینه هر منکری من زنگ‌ها.",
+      "cache_key": "rumi-003"
+    }
+  },
+  {
+    "id": "rumi-004",
+    "poet": "Rumi",
+    "work": "Divan-e Shams",
+    "fa": "ای بگرفته از وفا گوشه کران چرا چرا\nبر من خسته کرده‌ای روی گران چرا چرا",
+    "transliteration": "Ay bogerefte az vafā goshe karān cherā cherā\nBar man khaste karde-i ruy-e gerān cherā cherā",
+    "en_translation": "You who have withdrawn to a corner out of faithfulness, why, why —\nyou have turned your heavy face away from me, why, why.",
+    "en_meaning_summary": "A direct, raw address to someone who has pulled away. The repeated 'why' is not rhetorical — it is the sound of someone who genuinely cannot understand the withdrawal of someone they love.",
+    "source_note": "Rumi, Divan-e Shams, Ghazal 50. A lyric of naked longing and unanswered questioning.",
+    "source_url": "https://ganjoor.net/moulavi/shams/ghazalsh/sh50",
+    "commentary": {
+      "context": "Many of Rumi's ghazals in the Divan-e Shams are addressed directly to Shams-e Tabrizi — his spiritual companion who disappeared, leaving Rumi in a state of sustained longing that generated much of his greatest poetry. Whether or not this specific ghazal is addressed to Shams, it carries that quality of bewildered, faithful grief.",
+      "why_it_speaks": "The repeated 'why, why' (cherā cherā) is one of the most human sounds in Persian poetry — not the eloquent grief of someone who has processed their loss, but the raw confusion of someone still in the middle of it.",
+      "literary_notes": [
+        "Goshe karān (corner of the edge/margin) — withdrawing to a corner is a physical image of emotional retreat, pulling away from the center of connection.",
+        "Ruy-e gerān (heavy face) — turning a heavy face away suggests not just turning away but doing so with the weight of unexplained feeling.",
+        "The doubled cherā cherā (why, why) at the end of each line creates a refrain of unanswered questioning — the formal structure mirrors the emotional content."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "ای بگرفته از وفا گوشه کران چرا چرا. بر من خسته کرده‌ای روی گران چرا چرا.",
+      "cache_key": "rumi-004"
+    }
+  },
+  {
+    "id": "rumi-005",
+    "poet": "Rumi",
+    "work": "Divan-e Shams",
+    "fa": "بروید ای حریفان بِکِشید یار ما را\nبه من آورید آخر صنم گریزپا را",
+    "transliteration": "Beravid ay harifān bekeshid yār-e mā rā\nBe man āvarid ākhir sanam-e goriz-pā rā",
+    "en_translation": "Go, O companions, and bring our beloved here —\nbring to me at last that elusive idol.",
+    "en_meaning_summary": "A call to friends to help retrieve the one who keeps slipping away. The beloved is an idol who flees — beautiful, desired, always just out of reach. The speaker cannot chase alone and asks the community of lovers to help.",
+    "source_note": "Rumi, Divan-e Shams, Ghazal 163. An ecstatic lyric of collective longing.",
+    "source_url": "https://ganjoor.net/moulavi/shams/ghazalsh/sh163",
+    "commentary": {
+      "context": "Rumi's ghazals often address a community of fellow seekers — harifān (companions/fellow drinkers) — creating a sense that longing is not a private experience but a shared one. Here he recruits his companions to help him capture the beloved who always escapes. The tone is urgent and almost playful, the urgency of someone who has been outrun too many times.",
+      "why_it_speaks": "Some things we love cannot be caught alone. Rumi asks his companions to help — making longing a collective act, a community project. There is something liberating about admitting you need help to reach what you most want.",
+      "literary_notes": [
+        "Harifān (companions/rivals/fellow seekers) — the word implies both fellowship and shared pursuit, a group united by the same longing.",
+        "Sanam (idol/beloved) is a term of intense devotion — the beloved elevated to the status of something worshipped.",
+        "Goriz-pā (fleet-footed/elusive, literally 'escape-footed') is a compound that captures the beloved's essential quality: always in motion, always just ahead."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "بروید ای حریفان بِکِشید یار ما را. به من آورید آخر صنم گریزپا را.",
+      "cache_key": "rumi-005"
+    }
+  },
+  {
+    "id": "khayyam-001",
+    "poet": "Khayyam",
+    "work": "Rubaiyat",
+    "fa": "این کوزه چو من عاشقِ زاری بوده‌ست\nدر بندِ سرِ زلفِ نگاری بوده‌ست",
+    "transliteration": "In kuze cho man āsheq-e zāri bude-st\nDar band-e sar-e zolf-e negāri bude-st",
+    "en_translation": "This clay cup, like me, was once a grieving lover,\nonce entangled in the tresses of a beloved.",
+    "en_meaning_summary": "Every object carries the memory of a life. The cup was once clay, and clay was once a person who loved and suffered. Nothing is merely what it appears — everything has been someone.",
+    "source_note": "Khayyam, Rubaiyat, No. 15. One of his most haunting meditations on reincarnation and the secret lives of matter.",
+    "source_url": "https://ganjoor.net/khayyam/robaee/sh15",
+    "commentary": {
+      "context": "Khayyam returns often to the potter's wheel as a metaphor for fate — we are shaped, used, set down. This rubaʿi goes further: the cup has its own interiority, its own lost loves pressed into the clay. The cup on the table was once a person, and that person once loved as desperately as you do now.",
+      "why_it_speaks": "The object in your hand has a history. Khayyam asks you to extend your imagination into matter itself — to feel the continuity between yourself and everything that has been shaped by longing.",
+      "literary_notes": [
+        "The verb bude-st (has been) carries a mournful weight — this love is past, but preserved in the object's form.",
+        "Khayyam uses inanimate objects throughout his Rubaiyat to speak about the souls that passed through them — a recurring technique of animating the material world.",
+        "The 'tresses of the beloved' (zolf-e negār) is a classical Persian image of entanglement — beautiful, inescapable, the thing that holds you."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "این کوزه چو من عاشقِ زاری بوده‌ست. در بندِ سرِ زلفِ نگاری بوده‌ست.",
+      "cache_key": "khayyam-001"
+    }
+  },
+  {
+    "id": "khayyam-002",
+    "poet": "Khayyam",
+    "work": "Rubaiyat",
+    "fa": "دریاب که از روح جدا خواهی رفت\nدر پردهٔ اسرار، فنا خواهی رفت",
+    "transliteration": "Daryāb ke az ruh jodā khāhi raft\nDar parde-ye asrār, fanā khāhi raft",
+    "en_translation": "Know this: you will depart from the soul,\nyou will pass into oblivion behind the veil of secrets.",
+    "en_meaning_summary": "An unflinching reminder of mortality — not as threat but as fact. You will go. Behind the veil of what is hidden, you will dissolve. Khayyam says this not to frighten but to sharpen the present moment.",
+    "source_note": "Khayyam, Rubaiyat, No. 36. A direct meditation on impermanence and the mystery of what lies beyond.",
+    "source_url": "https://ganjoor.net/khayyam/robaee/sh36",
+    "commentary": {
+      "context": "Khayyam is the Persian poet most associated with meditating on death — not from morbidity but from a philosophical commitment to honesty about the human condition. He believed that acknowledging mortality clearly was the only basis for genuine presence. This rubaʿi states the fact plainly: you will go, and where you go is veiled in mystery.",
+      "why_it_speaks": "Khayyam does not soften this. You will be separated from your soul, and you will disappear behind a curtain of secrets. He says this so you might stop pretending otherwise.",
+      "literary_notes": [
+        "Daryāb (know/grasp/seize) is an imperative — Khayyam opens with a command to understand, demanding active recognition rather than passive reading.",
+        "Parde-ye asrār (veil of secrets) is the image Khayyam uses for what lies beyond death — not heaven or hell but simply the hidden, the unknown.",
+        "Fanā (annihilation/oblivion) is also a Sufi term for the dissolution of the self in the divine — Khayyam's word choice allows both a philosophical and mystical reading."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "دریاب که از روح جدا خواهی رفت. در پردهٔ اسرار، فنا خواهی رفت.",
+      "cache_key": "khayyam-002"
+    }
+  },
+  {
+    "id": "khayyam-003",
+    "poet": "Khayyam",
+    "work": "Rubaiyat",
+    "fa": "در هر دشتی که لاله‌زاری بوده‌ست\nاز سرخی خون شهریاری بوده‌ست",
+    "transliteration": "Dar har dashti ke lāle-zāri bude-st\nAz sorkhi-ye khun-e shahriyāri bude-st",
+    "en_translation": "In every field where wildflowers have bloomed red,\ntheir redness comes from the blood of a king.",
+    "en_meaning_summary": "The red wildflowers in every field grew from the blood of kings who once ruled there. Power and glory dissolve back into the earth, and the earth blooms from what was lost. Everything passes; beauty grows from what has fallen.",
+    "source_note": "Khayyam, Rubaiyat, No. 49. A meditation on the recycling of kings and empires into the natural world.",
+    "source_url": "https://ganjoor.net/khayyam/robaee/sh49",
+    "commentary": {
+      "context": "Khayyam was a mathematician and astronomer as well as a poet, and his Rubaiyat reflects a scientific understanding of matter cycling through forms. Kings die, their blood feeds the soil, and flowers grow red from that soil. There is no hierarchy in this process — the greatest ruler becomes the same earth as the lowest subject.",
+      "why_it_speaks": "The red flower in a field is not just a flower. It carries in its color everything that has bled there. Khayyam asks you to see the history compressed into small, beautiful, ordinary things.",
+      "literary_notes": [
+        "Lāle (wildflower/tulip) is one of Persian poetry's most loaded images — associated with both beauty and the blood of the fallen, especially martyrs and kings.",
+        "Shahriyār (king/sovereign) — the word for the most powerful figure becomes the source of the most common flower, a radical leveling.",
+        "The repetition of bude-st (has been) across Khayyam's rubaiyat creates a characteristic tone of retrospective melancholy — everything is spoken of in the past tense."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "در هر دشتی که لاله‌زاری بوده‌ست. از سرخی خون شهریاری بوده‌ست.",
+      "cache_key": "khayyam-003"
+    }
+  },
+  {
+    "id": "ferdowsi-001",
+    "poet": "Ferdowsi",
+    "work": "Shahnameh",
+    "fa": "چو ضحاک شد بر جهان شهریار\nبر او سالیان انجمن شد هزار",
+    "transliteration": "Cho Zahhāk shod bar jahān shahriyār\nBar u sālyān anjoman shod hezār",
+    "en_translation": "When Zahhak became sovereign over the world,\na thousand years gathered themselves around him.",
+    "en_meaning_summary": "The tyrant Zahhak ruled for a thousand years. Ferdowsi states this with the calm of a historian — no outrage, no commentary. A thousand years of wrong rule is simply a fact of history, as enduring as it was dark.",
+    "source_note": "Ferdowsi, Shahnameh, Zahhak section, opening. The beginning of one of the epic's central stories of tyranny and endurance.",
+    "source_url": "https://ganjoor.net/ferdousi/shahname/zahak/sh1",
+    "commentary": {
+      "context": "Zahhak is the Shahnameh's great tyrant — a king with serpents growing from his shoulders, fed on human brains. His thousand-year reign is one of Persian mythology's central images of endured oppression. Ferdowsi opens this section with staggering simplicity: he came to power, and a thousand years passed. The weight is in the understatement.",
+      "why_it_speaks": "A thousand years of one man's dominion over the world. Ferdowsi says it flatly, without decoration. The enormity is in what he does not say.",
+      "literary_notes": [
+        "Shahriyār (sovereign/king) — the same word Khayyam uses for the kings whose blood feeds the flowers, here at the height of power rather than its aftermath.",
+        "Anjoman shod (gathered themselves) — the years are personified as assembling around the king, as if even time is subject to his reign.",
+        "Ferdowsi's Shahnameh meter (the mutaqārib) gives every couplet a march-like forward momentum — appropriate for a chronicle of kings and battles."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "چو ضحاک شد بر جهان شهریار. بر او سالیان انجمن شد هزار.",
+      "cache_key": "ferdowsi-001"
+    }
+  },
+  {
+    "id": "ferdowsi-002",
+    "poet": "Ferdowsi",
+    "work": "Shahnameh",
+    "fa": "اگر تندبادی براید ز کنج\nبخاک افگند نارسیده ترنج",
+    "transliteration": "Agar tond-bādi barāyad ze konj\nBe khāk afgand nāraside toranj",
+    "en_translation": "If a fierce wind rises from the corner,\nit brings down the unripened citrus fruit to the ground.",
+    "en_meaning_summary": "A life cut short before its time — like fruit felled before ripening — by a force that does not discriminate. The wind does not know or care what it destroys. This is Ferdowsi's image for a young life ended too soon.",
+    "source_note": "Ferdowsi, Shahnameh, Sohrab section, opening. Sohrab is the story of a son killed by his father before either knows who the other is.",
+    "source_url": "https://ganjoor.net/ferdousi/shahname/sohrab/sh1",
+    "commentary": {
+      "context": "The Sohrab story is the Shahnameh's most heartbreaking episode: the hero Rostam unknowingly kills his own son Sohrab in battle. Ferdowsi opens this section with a natural image that foreshadows the tragedy — the unripened fruit brought down by a wind that cannot be reasoned with or stopped. The tragedy is not evil's triumph but fate's indifference.",
+      "why_it_speaks": "Not all loss is the result of malice. Sometimes a fierce wind simply rises, and what was not yet ready falls. Ferdowsi's image holds that particular grief — the death of potential, the unfinished life.",
+      "literary_notes": [
+        "Tond-bād (fierce wind) is the force of fate in Ferdowsi — impersonal, sudden, unstoppable.",
+        "Nāraside (unripened/not yet arrived) — the word nā (not) + rasidan (to arrive/to ripen) makes the fruit's incompleteness its defining quality.",
+        "Toranj (citrus/citron) is a fruit associated in Persian poetry with beauty and promise — its unripened fall is a double loss."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "اگر تندبادی براید ز کنج. بخاک افگند نارسیده ترنج.",
+      "cache_key": "ferdowsi-002"
+    }
+  },
+  {
+    "id": "ferdowsi-003",
+    "poet": "Ferdowsi",
+    "work": "Shahnameh",
+    "fa": "شبی چون شبه روی شسته به قیر\nنه بهرام پیدا نه کیوان نه تیر",
+    "transliteration": "Shabi chon shabe ruy-e shoste be qir\nNe Bahrām peydā ne Keyvān ne Tir",
+    "en_translation": "A night black as jet, its face washed in pitch,\nneither Mars visible, nor Saturn, nor Mercury.",
+    "en_meaning_summary": "A night so completely dark that even the planets are hidden. Ferdowsi opens a scene of adventure with total atmospheric blackness — the kind of night in which anything might happen, or nothing can be seen coming.",
+    "source_note": "Ferdowsi, Shahnameh, Bizhan and Manijeh section, opening. This romantic adventure begins in absolute darkness.",
+    "source_url": "https://ganjoor.net/ferdousi/shahname/bizhan/sh1",
+    "commentary": {
+      "context": "The Bizhan and Manijeh story is the Shahnameh's great romance — a young hero imprisoned in a pit, a foreign princess who rescues him, love across enemy lines. Ferdowsi opens it with a night of perfect blackness: no planets visible, nothing to navigate by. Into this darkness, the adventure begins. The darkness is not merely atmospheric — it is the condition of the unknown into which the hero steps.",
+      "why_it_speaks": "There are nights so dark that even the sky gives no guidance. Ferdowsi names each missing planet — Bahram, Keyvan, Tir — as if calling their absence. The darkness is total, and something is about to begin.",
+      "literary_notes": [
+        "Shabe (jet/onyx) is the blackest of black gemstones — comparing the night to jet is a superlative of darkness.",
+        "Bahram (Mars), Keyvan (Saturn), and Tir (Mercury) are Persian astronomical names for planets — their absence means not just darkness but the removal of all celestial reference points.",
+        "The negative construction (ne... ne... ne...) — neither... nor... nor... — accumulates the absences, making the darkness feel total through enumeration."
+      ]
+    },
+    "human_commentary": [],
+    "audio": {
+      "tts_text_fa": "شبی چون شبه روی شسته به قیر. نه بهرام پیدا نه کیوان نه تیر.",
+      "cache_key": "ferdowsi-003"
+    }
+  }
+]

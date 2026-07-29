@@ -1,0 +1,88 @@
+.page {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 4rem 1.5rem;
+}
+
+.content {
+  width: 100%;
+  max-width: 680px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.25rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: var(--color-ink);
+  letter-spacing: -0.02em;
+}
+
+.calligraphy {
+  width: 80%;
+  height: auto;
+  opacity: 0.18;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+@media (min-width: 768px) {
+  .calligraphy {
+    width: 60%;
+  }
+}
+
+.description {
+  color: var(--color-ink);
+  max-width: 46ch;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.primaryButton {
+  background: var(--color-accent);
+  color: var(--color-bg);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: opacity 150ms ease;
+}
+
+.primaryButton:hover {
+  opacity: 0.9;
+}
+
+.secondaryButton {
+  background: transparent;
+  color: var(--color-ink);
+  border: 1px solid var(--color-muted);
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-size: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  transition: background-color 150ms ease;
+}
+
+.secondaryButton:hover {
+  background-color: var(--color-surface);
+}
+
+.illustration {
+  width: min(320px, 70vw);
+  height: min(320px, 70vw);
+  margin-top: 2rem;
+}

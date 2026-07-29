@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --yes create-next-app@latest . --typescript --eslint --app --src-dir=false --import-alias \"@/*\" --use-npm --no-tailwind)",
+      "Bash(npx --yes create-next-app@latest faal-e-bolbol --typescript --eslint --app --src-dir=false --import-alias \"@/*\" --use-npm --no-tailwind)",
+      "Read(//Users/jacobtehrani/.npm/_cacache/content-v2/sha512/ce/**)",
+      "Read(//Users/jacobtehrani/.npm/_cacache/**)",
+      "Bash(npm cache *)",
+      "Bash(mkdir -p /private/tmp/claude-501/-Users-jacobtehrani-Documents-Claude-2026-Portfolio-Faal-e-Bolbol/ef48f583-b5f5-4e00-95cf-7775ac3933d2/scratchpad/npm-cache)",
+      "Bash(npm_config_cache=/private/tmp/claude-501/-Users-jacobtehrani-Documents-Claude-2026-Portfolio-Faal-e-Bolbol/ef48f583-b5f5-4e00-95cf-7775ac3933d2/scratchpad/npm-cache npx --yes create-next-app@latest faal-e-bolbol --typescript --eslint --app --src-dir=false --import-alias \"@/*\" --use-npm --no-tailwind)",
+      "Bash(SRC=\"/private/tmp/claude-501/-Users-jacobtehrani-Documents-Claude-2026-Portfolio-Faal-e-Bolbol/ef48f583-b5f5-4e00-95cf-7775ac3933d2/scratchpad/faal-e-bolbol\" *)",
+      "Bash(npm run *)",
+      "Bash(sips -g pixelWidth -g pixelHeight public/images/bolbol_flight.png)",
+      "Bash(kill 46170)",
+      "Bash(sips -g pixelWidth -g pixelHeight public/images/faal_bolbol_calligraphy.png)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('data/poems.json'\\)\\); print\\(len\\(d\\)\\); print\\(all\\('human_commentary' in p for p in d\\)\\); print\\(set\\(k for p in d for k in p.keys\\(\\)\\)\\)\")"
+    ]
+  }
+}

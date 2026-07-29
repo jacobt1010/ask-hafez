@@ -1,0 +1,295 @@
+.page {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1.5rem 4rem;
+}
+
+.content {
+  width: 100%;
+  max-width: 680px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.75rem;
+}
+
+@keyframes bolbolEnter {
+  from {
+    opacity: 0;
+    transform: scale(0.7);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes verseFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.headerIllustration {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 0.5rem;
+  opacity: 0;
+  transform: scale(0.7);
+  animation: bolbolEnter 900ms ease-out forwards;
+}
+
+.persian {
+  direction: rtl;
+  text-align: center;
+  width: 100%;
+  color: var(--color-accent);
+  font-size: 2.1rem;
+  line-height: 1.9;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.persianLine {
+  display: block;
+  opacity: 0;
+  animation: verseFadeIn 900ms ease forwards;
+}
+
+.transliteration {
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--color-muted);
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.translitLine {
+  display: block;
+}
+
+.translationBlock {
+  background: var(--color-surface);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  width: 100%;
+  font-size: 1.2rem;
+  color: var(--color-ink);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  opacity: 0;
+  animation: verseFadeIn 900ms ease forwards;
+}
+
+.meaning {
+  color: var(--color-ink);
+  max-width: 52ch;
+  text-align: center;
+  align-self: center;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.audioRow {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.audioButton {
+  background: transparent;
+  color: var(--color-ink);
+  border: 1px solid var(--color-muted);
+  border-radius: 999px;
+  padding: 0.6rem 1.4rem;
+  font-size: 1rem;
+  transition: background-color 150ms ease;
+}
+
+.audioButton:hover:not(:disabled) {
+  background-color: var(--color-surface);
+}
+
+.audioButton:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.audioError {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.byline {
+  color: var(--color-muted);
+  font-size: 1rem;
+  text-align: center;
+  align-self: center;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.byline a {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+.behindPoem {
+  width: 100%;
+  text-align: left;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.behindToggle {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--color-ink);
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.behindChevron {
+  display: inline-block;
+  color: var(--color-ink);
+  transform: rotate(0deg);
+  transition: transform 200ms ease;
+}
+
+.behindChevronOpen {
+  transform: rotate(90deg);
+}
+
+.behindPanel {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  transition: max-height 400ms ease, opacity 400ms ease;
+}
+
+.behindPanelOpen {
+  max-height: 1200px;
+  opacity: 1;
+}
+
+.behindPanelInner {
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  color: var(--color-ink);
+}
+
+.behindPanelInner ul {
+  padding-left: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+  opacity: 0;
+  animation: verseFadeIn 600ms ease forwards;
+}
+
+.shareButton {
+  background: transparent;
+  color: var(--color-ink);
+  border: 1px solid var(--color-muted);
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-size: 1.1rem;
+  min-width: 8rem;
+  transition: background-color 150ms ease;
+}
+
+.shareButton:hover {
+  background-color: var(--color-surface);
+}
+
+.drawAgainButton {
+  background: var(--color-accent);
+  color: var(--color-bg);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: opacity 150ms ease;
+}
+
+.drawAgainButton:hover {
+  opacity: 0.9;
+}
+
+.shareFallbackInput {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--color-muted);
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-en), serif;
+}
+
+@media (min-width: 768px) {
+  .persian {
+    text-align: right;
+  }
+
+  .transliteration {
+    text-align: right;
+  }
+
+  .translationBlock {
+    text-align: left;
+  }
+
+  .meaning {
+    text-align: left;
+    align-self: flex-start;
+  }
+
+  .byline {
+    text-align: left;
+    align-self: flex-start;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .headerIllustration,
+  .persianLine,
+  .transliteration,
+  .translationBlock,
+  .meaning,
+  .audioRow,
+  .byline,
+  .behindPoem,
+  .actions {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}

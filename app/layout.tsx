@@ -17,8 +17,8 @@ const crimsonPro = Crimson_Pro({
 });
 
 export const metadata: Metadata = {
-  title: "Faal e Bolbol",
-  description: "A verse drawn for you — an oracle of classical Persian poetry.",
+  title: "Ask Hafez",
+  description: "A fortune from Hafez, in the tradition of Fal-e Hafez.",
   icons: {
     icon: [
       { url: "/images/favicon-16x16.png", sizes: "16x16", type: "image/png" },

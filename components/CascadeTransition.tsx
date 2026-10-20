@@ -22,15 +22,6 @@ export function CascadeProvider({ children }: { children: React.ReactNode }) {
 
   const navigateWithCascade = useCallback(
     (path: string) => {
-      const prefersReducedMotion =
-        typeof window !== "undefined" &&
-        window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-      if (prefersReducedMotion) {
-        router.push(path);
-        return;
-      }
-
       timeouts.current.forEach(clearTimeout);
       timeouts.current = [];
 

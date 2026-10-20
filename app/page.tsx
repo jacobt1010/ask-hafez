@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { Cormorant_Garamond } from "next/font/google";
 import { config } from "@/lib/config";
-import { getRandomPoem } from "@/lib/poems";
 import { useCascade } from "@/components/CascadeTransition";
 import { Nightingale } from "@/components/Nightingale";
 import styles from "./page.module.css";
@@ -20,11 +19,7 @@ export default function Home() {
   const { navigateWithCascade } = useCascade();
 
   function handleDraw() {
-    const lastId = sessionStorage.getItem("faal-last-poem-id");
-    const poem = getRandomPoem(lastId);
-    sessionStorage.setItem("faal-current-poem", JSON.stringify(poem));
-    sessionStorage.setItem("faal-last-poem-id", poem.id);
-    navigateWithCascade("/verse");
+    navigateWithCascade("/pause");
   }
 
   return (

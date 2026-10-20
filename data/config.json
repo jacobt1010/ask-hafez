@@ -1,11 +1,14 @@
 {
-  "appName": "Faal e Bolbol",
-  "tagline": "A verse drawn for you.",
-  "description": "In the Persian tradition of Faal e Hafez, one opens a book of Hafez's poetry at random and receives the full verse as a message from fate. This recreates that tradition in digital form, presenting short couplets drawn from four classical poets: Hafez, Rumi, Khayyam, and Ferdowsi.",
-  "drawCta": "Draw a verse",
-  "drawAgainCta": "Draw again",
+  "appName": "Ask Hafez",
+  "tagline": "A fortune from Hafez.",
+  "description": "In the Persian tradition of Fal-e Hafez, one asks a question, opens the Divan of Hafez at random, and takes the poem that appears as a message from fate. Ask Hafez brings that tradition online, with a short, plain-English reading of each poem.",
+  "drawCta": "Begin",
+  "drawAgainCta": "Another Fortune",
   "aboutCta": "About",
   "homeCta": "Home",
   "sharePrefix": "A verse drawn for me today:",
-  "shareSource": "via Faal e Bolbol"
+  "shareSource": "via Ask Hafez",
+  "pauseTitle": "Take a moment",
+  "pauseBody": "Hold a question or intention in your mind. Breathe slowly, and when you feel ready, reveal your fortune.",
+  "revealCta": "Reveal my fortune"
 }

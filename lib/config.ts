@@ -7,6 +7,9 @@ export interface AppConfig {
   drawCta: string;
   drawAgainCta: string;
   aboutCta: string;
+  pauseTitle: string;
+  pauseBody: string;
+  revealCta: string;
   homeCta: string;
   sharePrefix: string;
   shareSource: string;

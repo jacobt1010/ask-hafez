@@ -1,0 +1,49 @@
+.page {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 1.5rem;
+}
+
+.content {
+  width: 100%;
+  max-width: 560px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+}
+
+.illustration {
+  width: min(200px, 50vw);
+  height: min(200px, 50vw);
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--color-ink);
+}
+
+.body {
+  color: var(--color-ink);
+  max-width: 40ch;
+}
+
+.revealButton {
+  background: var(--color-accent);
+  color: var(--color-bg);
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.85rem 1.75rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  transition: opacity 150ms ease;
+}
+
+.revealButton:hover {
+  opacity: 0.9;
+}

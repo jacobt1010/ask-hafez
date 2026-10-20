@@ -1,6 +1,6 @@
-# Faal e Bolbol
+# Ask Hafez
 
-_Faal e Bolbol_ ("Oracle of the Nightingale") is a minimal Persian poetry oracle. Press a
+_Ask Hafez_ ("Oracle of the Nightingale") is a minimal Persian poetry oracle. Press a
 button and receive a randomly drawn verse from a curated collection of classical Persian
 poetry — Hafez, Rumi, Khayyam, and Ferdowsi.
 

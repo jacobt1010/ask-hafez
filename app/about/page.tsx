@@ -26,8 +26,11 @@ export default function AboutPage() {
           at random, and reads the poem as a message from fate.
         </p>
         <p>
-          Each poem here is shown through its fal-friendly summary, translated into English, with a
-          comment from an Iranian and a link to the full poem.
+          In lieu of the full-length Persian poem, presented here are the poems&apos;
+          interpretations taken from Sedaye Moaser Publishing and translated into English by
+          ChatGPT. An English translation of the poem&apos;s first couplet (known as its
+          &ldquo;matla&rdquo;, the way specific poems traditionally were identified) and a link to
+          the full-length poem are found in the &ldquo;Behind the poem&rdquo; section.
         </p>
         <p>
           The bolbol (nightingale) is a common symbol in Persian poetry, typically representing a

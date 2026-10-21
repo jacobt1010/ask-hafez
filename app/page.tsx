@@ -5,7 +5,6 @@ import Image from "next/image";
 import { Cormorant_Garamond } from "next/font/google";
 import { config } from "@/lib/config";
 import { useCascade } from "@/components/CascadeTransition";
-import { Nightingale } from "@/components/Nightingale";
 import styles from "./page.module.css";
 
 const cormorantGaramond = Cormorant_Garamond({
@@ -43,7 +42,13 @@ export default function Home() {
             {config.aboutCta}
           </Link>
         </div>
-        <Nightingale variant="perched" tone="accent" className={styles.illustration} />
+        <Image
+          src="/images/hafez_linework.png"
+          alt="Linework portrait of Hafez"
+          width={731}
+          height={800}
+          className={styles.portrait}
+        />
       </div>
     </main>
   );
